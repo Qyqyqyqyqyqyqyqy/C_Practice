@@ -1,2 +1,3 @@
 # C_Practice
-Some practice for ECE 220
+
+Solutions to C Programming: A Modern Approach by K.N.King book programming projects
